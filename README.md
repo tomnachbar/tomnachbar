@@ -2,7 +2,7 @@
 # Hey! Bem vindo 😎
 
 _Meu nome é Eliton Nachbar, mas pode me chamar de Tom. Atualmente estou estudando Machine Learning e Estatística. Mas na minha jornada também tenho me aprofundado em SQL, Excel e PowerBI. 
-Também estou cursando o 3º Semestre em Bacharel em Ciência de Dados pela Univesp e sou graduado em Administração pela Unip desde 2014._
+Também estou cursando o 4º Semestre em Bacharel em Ciência de Dados pela Univesp e sou graduado em Administração pela Unip desde 2014._
 
 _Abaixo vou deixar meus links de contato, e também algumas das habilidades adquiridas até o momento, combinado?_
 
